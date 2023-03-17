@@ -38,3 +38,11 @@
     color: white;
     text-decoration: none;
 }
+
+.success-text {
+    color: green;
+}
+
+.danger-text {
+    color: red;
+}
