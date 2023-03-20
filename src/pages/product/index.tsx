@@ -96,7 +96,6 @@ const Index: React.FC = () => {
         </table>
     }
 
-
     function onSubmitSearchTextBox(e: React.FormEvent<HTMLFormElement>) {
         e.preventDefault();
 
