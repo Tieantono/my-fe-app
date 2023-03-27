@@ -82,7 +82,6 @@ const CreateProductPage: React.FC = () => {
                             <Button htmlType="submit" type="primary" block>
                                 Submit
                             </Button>
-
                             
                             {successMessage.length > 0 &&
                                 <span className={styles['success-text']}>{successMessage}</span>
